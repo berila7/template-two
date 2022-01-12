@@ -1,0 +1,5 @@
+font : Google Fonts url("https://fonts.google.com/") 
+font name : poppins
+icons : Line Awesome + font awesome url("https://icons8.com/line-awesome" / "fontawesome.com/")
+rendering element : normalize url("https://necolas.github.io/normalize.css/")
+pictures : unsplash url("unsplash.com/")
